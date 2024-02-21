@@ -1,1 +1,1 @@
-I have donloaded Sample Report dataset form the internet in Excel format where the data is uncleaned.The data was transormed using Power Query in structured format to create Dashboards.   
+I have donloaded Sample Report dataset form the internet in Excel format where the data is realted to Market details. While loading the data into PowerBI there will be presence of many sheets related to store.I had loaded Orders data to create the Dashboards.
